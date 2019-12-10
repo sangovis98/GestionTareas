@@ -1,0 +1,27 @@
+*{
+	margin: 0;
+	padding:0;
+	text-decoration: none;
+	list-style: none;
+	font-family: arial;
+}
+
+hmtl{
+	width: 100%;
+	height: 100%;
+}
+
+body{
+	width: 100%;
+	height: 100%;
+}
+
+.container{
+	width: 100%;
+	height: 100%;
+	background: linear-gradient(to bottom, aqua, whitesmoke);
+}
+
+#tit{
+	font-size: 1vh;
+}
